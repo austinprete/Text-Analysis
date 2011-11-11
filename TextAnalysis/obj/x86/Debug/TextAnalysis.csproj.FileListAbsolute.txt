@@ -1,0 +1,7 @@
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\obj\x86\Debug\TextAnalysis.exe
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\obj\x86\Debug\TextAnalysis.pdb
+c:\users\austin\documents\visual studio 2010\Projects\TextAnalysis\TextAnalysis\bin\Debug\text.txt
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\TextAnalysis\TextAnalysis\bin\Debug\text2.txt
