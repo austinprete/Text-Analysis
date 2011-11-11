@@ -1,0 +1,1 @@
+The beginnings of a C# program written to analyze text and identify the author of the text based on a DB of samples.
