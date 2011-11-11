@@ -42,7 +42,7 @@ namespace TextAnalysis
 
                 if (letter == ' ' | letter == '\n')
                 {
-                    new_word = true;
+                    new_word = true; 
                 }
             }
             return wordcount;
